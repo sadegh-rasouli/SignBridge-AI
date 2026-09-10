@@ -22,8 +22,8 @@ Thank you for your interest in contributing to **SignBridge AI**! We welcome con
 ### 2.2 Local Setup
 ```bash
 # 1. Clone repository
-git clone https://github.com/your-org/signbridge-ai.git
-cd signbridge-ai
+git clone https://github.com/sadegh-rasouli/SignBridge-AI.git
+cd SignBridge-AI
 
 # 2. Setup Python virtual environment
 python -m venv .venv

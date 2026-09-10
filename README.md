@@ -128,8 +128,8 @@ To prevent temporal and subject data leakage, data was collected across 8 indepe
 ### 7.2 Clone and Setup
 ```bash
 # 1. Clone repository
-git clone https://github.com/your-org/signbridge-ai.git
-cd signbridge-ai
+git clone https://github.com/sadegh-rasouli/SignBridge-AI.git
+cd SignBridge-AI
 
 # 2. Setup Python Virtual Environment & Install Backend Dependencies
 python -m venv .venv
