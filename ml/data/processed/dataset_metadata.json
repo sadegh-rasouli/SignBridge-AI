@@ -1,0 +1,38 @@
+{
+  "vocabulary_size": 13,
+  "feature_dimension": 84,
+  "train_samples": 11700,
+  "val_samples": 1950,
+  "test_samples": 1950,
+  "subjects": {
+    "train": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "val": [
+      7
+    ],
+    "test": [
+      8
+    ]
+  },
+  "classes": [
+    "HELLO",
+    "THANK_YOU",
+    "YES",
+    "NO",
+    "PLEASE",
+    "HELP",
+    "STOP",
+    "GOOD",
+    "BAD",
+    "NAME",
+    "ME",
+    "YOU",
+    "NEUTRAL"
+  ]
+}
